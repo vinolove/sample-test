@@ -1,0 +1,12 @@
+{
+  "name": "sample-first",
+  "version": "1.0.0",
+  "description": "For test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "vinoth kumar",
+  "license": "ISC"
+}
